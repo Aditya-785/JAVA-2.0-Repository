@@ -6,19 +6,19 @@ public class datatypes {
         int a = 12;
         int b = 15;
         // Here are two variable which store some data in integers , now we proceed with some arithmetic problems -
-        int sum = a+b;  // sum of  two variaels
-        int diff = a-b;  // diffrence of two variables
+        int sum = a+b;  // sum of  two variables
+        int diff = a-b;  // difference of two variables
         int pro = a*b; // multiplication of two variables
-        int div = b/a; // divison of two vzriables
+        int div = b/a; // division of two variables
 
         System.out.println("sum :" + sum);
         System.out.println("diff :" + diff);
         System.out.println("product :"+ pro);
-        System.out.println("divison :" +div);
+        System.out.println("division :" +div);
 
         /*now we have to
-        print some values of variables which is tore in integers datatype
-        which is gemrerally came in Primitive datatype -
+        print some values of variables which is store in integers datatype
+        which is generally came in Primitive datatype -
 
         Then return to 0
 
@@ -30,6 +30,14 @@ public class datatypes {
                 ++	Increment	Increases the value of a variable by 1	++x
                 --	Decrement	Decreases the value of a variable by 1	--
 
+         int myNum = 5;               // Integer (whole number)
+        float myFloatNum = 5.99f;    // Floating point number
+        char myLetter = 'D';         // Character
+        boolean myBool = true;       // Boolean
+        String myText = "Hello";     // String
          */
+
+
+        
     }
 }
